@@ -4,7 +4,7 @@
   "description": "api for netflix app",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "author": "Aakash",
   "license": "ISC",
